@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavlepetrovic62&label=Profile%20views&color=0e75b6&style=flat" alt="pavlepetrovic62" /> </p>
 
-- 🔭 I’m currently working on **a residential community web application**
-
-- 🌱 I’m currently learning **Node.js**
-
 - 📫 How to reach me **petrovicpavle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
